@@ -6,6 +6,8 @@ Purpose : study for Firebase. But more study for React with Firebase. :)
 
 https://nomadcoders.co/nwitter/lobby?utm_source=free_course&utm_campaign=nwitter&utm_medium=site
 
+Lecture와 버전 차이로 인한 오류가 많아 중간에 관둠.
+
 파이어베이스 계정 기능 정상적 연동.
 
 로그인 ui
